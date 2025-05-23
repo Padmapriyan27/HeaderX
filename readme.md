@@ -21,7 +21,8 @@ HeaderX is a HTTP header analysis tool that fetches and categorizes request/resp
 1. Clone the repository:
 
 ```bash
-   git clone https://git.selfmade.ninja/0xD4rkEYe/headerx.git
+   git clone https://github.com/Padmapriyan27/HeaderX.git
+   
    cd headerX
 ```
 
