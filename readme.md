@@ -23,7 +23,7 @@ HeaderX is a HTTP header analysis tool that fetches and categorizes request/resp
 ```bash
    git clone https://github.com/Padmapriyan27/HeaderX.git
    
-   cd headerX
+   cd HeaderX
 ```
 
 2. Install dependencies:
